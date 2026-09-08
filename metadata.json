@@ -1,0 +1,6 @@
+{
+  "name": "RazifApps POS & Monitor Suite @ Nasadef",
+  "description": "Sistem komersial Inventori, POS, Pelanggan, Barcode EAN-13 & Pengesahan Pengguna pelbagai peranan dengan SQLite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
